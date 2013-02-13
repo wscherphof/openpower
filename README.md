@@ -1,10 +1,8 @@
-openpower
-=========
+# openpower
 
 Quick start for a power supplier
 
-Problem description
--------------------
+## Problem description
 
 So, what does it take to be a power supplier company? All kinds of systems you need to run. Don't all power supplier companies need all the same systems? Why not create one common and open version of those systems, that all companies can use, at least to get them started?
 Of course, a good deal of the distinctiveness of any particular company lies in the nature and configuration of its marketing and customer support systems, and options in these areas are plentiful. So, we won't recreate those, but probably we do need to provide some basic way of keeping track of customers and contracts.
